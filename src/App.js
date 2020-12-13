@@ -10,11 +10,15 @@ function App() {
           </a>
         </div>
         <div>
-          <a href="/singin">singin</a>
-          <a href="/cart">cart</a>
+          <a href="/cart">Cart</a>
+          <a href="/signin">Sign In</a>
         </div>
       </header>
-      <main>main</main>
+
+      <main>
+        <div className="row center"></div>
+      </main>
+
       <footer>
         <footer className="row center">All right reserved</footer>
       </footer>
