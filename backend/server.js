@@ -1,4 +1,5 @@
 import express from "express";
+import mongoose from "mongoose";
 import data from "./data.js";
 const app = express();
 
